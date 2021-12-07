@@ -1,1 +1,1 @@
-# ML Computer Vision Final Project - GREAT LEARNING/ PD Diploma in Artifitial Inteligence and Machine Learning UTA.
+# ML Computer Vision Final Project - This was one of the projects I built during my Computer vision class , part of the PD Diploma in Artifitial Inteligence and Machine Learning I studied at University of Texas Austing.Hope you enjoy it.
